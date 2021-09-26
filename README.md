@@ -3,8 +3,9 @@
 ---
 
 <div align = "center">
-<img src = "https://user-images.githubusercontent.com/87881780/134824830-86c13284-a711-4ff6-8478-a5894397db98.jpg" witch = "700px" f>
+<img src = "https://user-images.githubusercontent.com/87881780/134824830-86c13284-a711-4ff6-8478-a5894397db98.jpg" witch = "600px" f>
 <div align = "left">
+ 
  
 As Olimpíadas são uma das maiores competições multiesportivos internacionais do mundo, cuja origem remonta à Grécia Antiga, quando eram praticados jogos esportivos na cidade de Olímpia.
 
