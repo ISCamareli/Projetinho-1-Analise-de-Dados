@@ -3,7 +3,7 @@
 ---
 
 <div align = "center">
-<img src = "https://user-images.githubusercontent.com/87881780/134824830-86c13284-a711-4ff6-8478-a5894397db98.jpg" witch = "600px" f>
+<img src = "https://user-images.githubusercontent.com/87881780/134824830-86c13284-a711-4ff6-8478-a5894397db98.jpg" width = "700px" />
 <div align = "left">
  
  
